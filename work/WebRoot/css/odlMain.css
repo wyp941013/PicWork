@@ -1,0 +1,18 @@
+.navbar{   
+	border: 0px none;
+    box-shadow: none;
+    border-radius: 0px;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    min-height: 45px;
+    position: relative;
+    background: #438EB9 none repeat scroll 0% 0%;
+}
+.panel-title{
+	font-size:14px;
+}
+.left-menu{
+	overflow:auto;
+	padding:10px
+}

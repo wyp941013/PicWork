@@ -1,0 +1,8 @@
+clsCnt=50
+eclipse.preferences.version=1
+locCnt=4046
+pkgCnt=10
+sTime=2015\u5E749\u670818\u65E5 \u661F\u671F\u4E94 \u4E0B\u534810\u65F614\u520629\u79D2 CST
+srcCnt=2
+validator.Checked=WebRoot/shearphoto_common/js/alloyimage.js,WebRoot/js/jquery.min.js,WebRoot/WEB-INF/jsp/image/imageList.jsp,config/ehcache.xml,WebRoot/shearphoto_common/js/MIN/MIN_alloyimage.js,WebRoot/js/jquery.js,WebRoot/WEB-INF/jsp/user/userList.jsp
+validator.Unchecked=
